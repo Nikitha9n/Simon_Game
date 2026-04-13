@@ -2,8 +2,7 @@
 
 A classic memory game built with HTML, CSS, and JavaScript. 
 
-### [Click here for Live Demo](YOUR_GITHUB_PAGES_LINK_HERE)
-https://nikitha9n.github.io/Simon_Game/simon2.html
+### [Click here for Live Demo](https://nikitha9n.github.io/Simon_Game/)
 
 ## How to Play
 1. Press any key on your keyboard to start.
